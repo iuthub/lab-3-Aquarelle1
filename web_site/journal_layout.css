@@ -37,3 +37,21 @@ body {
 .content .content-date {
     border-bottom: 2px dashed #009097;
 }
+
+.all-data {
+    display: flex;
+}
+
+.sidebar {
+    background: #99E0E0;
+    border: 4px solid #009097;
+    padding: 10px;
+    flex: 2;
+
+    margin-right: 10px;
+    height: 200px;
+}
+
+.posts {
+    flex: 10;
+}

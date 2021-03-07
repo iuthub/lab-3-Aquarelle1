@@ -1,5 +1,14 @@
 body {
+
+    background: url("./images/bg_pattern.jpg");
+
+}
+
+.container {
+    background: white;
+    width: 80%;
     border: 5px solid green;
+    margin: 0 auto;
 }
 
 .header {
@@ -12,6 +21,9 @@ body {
 
 .content {
     border: 5px solid blue;
+    background: #E8FBFB;
+    padding: 5px;
+    margin-top: 10px;
 }
 
 .content .content-date {
